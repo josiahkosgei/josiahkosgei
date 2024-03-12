@@ -8,8 +8,8 @@ I am a Sofware Developer from Kenya.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>)](https://www.linkedin.com/in/josiah-kosgei/)
+- 
+- :mailbox:[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/josiah-kosgei/)
 
 ## 🛠 Skills
 <div>
