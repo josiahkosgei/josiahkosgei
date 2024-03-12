@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I'm Josiah Kosgei 👋
 
 
 I am a Sofware Developer from Kenya.
@@ -9,7 +9,7 @@ I am a Sofware Developer from Kenya.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-kosgei/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/josiah-kosgei/)
 
 ## 🛠 Skills
 <div>
