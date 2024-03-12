@@ -9,7 +9,7 @@ I am a Sofware Developer from Kenya.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/josiah-kosgei/)
+- :mailbox:How to reach me: [![Linkedin Badge](<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>)](https://www.linkedin.com/in/josiah-kosgei/)
 
 ## 🛠 Skills
 <div>
